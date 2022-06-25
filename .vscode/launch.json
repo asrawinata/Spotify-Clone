@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Spotify",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Spotify (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Spotify (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "KUMPUL",
+            "cwd": "KUMPUL",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "KUMPUL (profile mode)",
+            "cwd": "KUMPUL",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "KUMPUL (release mode)",
+            "cwd": "KUMPUL",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
