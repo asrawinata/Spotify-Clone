@@ -1,6 +1,10 @@
+import 'dart:convert';
+
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:spotify/widgets/album_card.dart';
+import 'package:flutter/services.dart' as rootBundle;
+import '../models/song.dart';
 
 class AlbumView extends StatefulWidget {
   final ImageProvider image;
@@ -315,4 +319,11 @@ class _AlbumViewState extends State<AlbumView> {
       ),
     );
   }
+}
+
+Future<List<Song>> ReadJsonData() async {
+  final jsonData = await rootBundle.rootBundle.loadString('fileJSON/Song.');
+  final list = jsonDecode(jsonData) as List<dynamic>;
+
+  return list.map((e) => Song.fromJson(e)).toList();
 }

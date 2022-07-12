@@ -1,0 +1,50 @@
+[
+  {
+    "label": "C.H.R.I.S.Y.E",
+    "image": "assets/album1.jpg"
+  },
+  {
+    "label": "Hati-Hati di Jalan",
+    "image": "assets/album2.jpg"
+  },
+  {
+    "label": "Langit Favorit",
+    "image": "assets/album3.jpg"
+  },
+  {
+    "label": "Kala Cinta Menggoda",
+    "image": "assets/album4.jpg"
+  },
+  {
+    "label": "Selamat Ulang Tahun",
+    "image": "assets/album5.jpg"
+  },
+  {
+    "label": "Tak Ingin Usai",
+    "image": "asset/album6.jpg"
+  },
+  {
+    "label": "Suci Sekeping Hati",
+    "image": "assets/album7.jpg"
+  },
+  {
+    "label": "Merah Saga",
+    "image": "assets/album8.jpg"
+  },
+  {
+    "label": "Kisah Valzartafin",
+    "image": "assets/album9.jpg"
+  },
+  {
+    "label": "Sayap Lunarseva",
+    "image": "assets/album10.jpg"
+  },
+  {
+    "label": "Meraih Mimpi",
+    "image": "assets/album11.jpg"
+  },
+  {
+    "label": "Semangat Arestazein",
+    "image": "assets/album12.jpg"
+  }
+]
