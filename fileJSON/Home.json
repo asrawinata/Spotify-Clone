@@ -1,0 +1,34 @@
+[
+  {
+    "label: "Best Mode",
+    "image: "assets/album7.jpg"
+  },
+  {
+    "label: "Mot6ivation Mix",
+    "image: "assets/album2.jpg"
+  },
+  {
+    "label: "Top 50-Global",
+    "image: "assets/top50.jpg"
+  },
+  {
+    "label: "Power Gaming",
+    "image: "assets/album1.jpg"
+  },
+  {
+    "label: "Top songs - Global",
+    "image: "assets/album9.jpg"
+  },
+  {
+    "label: "RapCaviar",
+    "image: "assets/album2.jpg"
+  },
+  {
+    "label: "Eminem",
+    "image: "assets/album5.jpg"
+  },
+  {
+    "label: "Pop Remix",
+    "image: "assets/album10.jpg"
+  }
+]
